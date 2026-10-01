@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\bin\Debug\net10.0\zad9zamianaCzasu.exe
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\bin\Debug\net10.0\zad9zamianaCzasu.deps.json
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\bin\Debug\net10.0\zad9zamianaCzasu.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\bin\Debug\net10.0\zad9zamianaCzasu.dll
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\bin\Debug\net10.0\zad9zamianaCzasu.pdb
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.dll
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\refint\zad9zamianaCzasu.dll
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.pdb
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\zad9zamianaCzasu.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad9zamianaCzasu\obj\Debug\net10.0\ref\zad9zamianaCzasu.dll

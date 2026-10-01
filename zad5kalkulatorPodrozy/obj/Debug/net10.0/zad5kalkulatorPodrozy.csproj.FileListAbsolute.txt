@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\bin\Debug\net10.0\zad5kalkulatorPodrozy.exe
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\bin\Debug\net10.0\zad5kalkulatorPodrozy.deps.json
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\bin\Debug\net10.0\zad5kalkulatorPodrozy.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\bin\Debug\net10.0\zad5kalkulatorPodrozy.dll
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\bin\Debug\net10.0\zad5kalkulatorPodrozy.pdb
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.dll
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\refint\zad5kalkulatorPodrozy.dll
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.pdb
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\zad5kalkulatorPodrozy.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad5kalkulatorPodrozy\obj\Debug\net10.0\ref\zad5kalkulatorPodrozy.dll

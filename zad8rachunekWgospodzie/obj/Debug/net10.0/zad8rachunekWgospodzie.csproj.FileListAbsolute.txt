@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\bin\Debug\net10.0\zad8rachunekWgospodzie.exe
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\bin\Debug\net10.0\zad8rachunekWgospodzie.deps.json
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\bin\Debug\net10.0\zad8rachunekWgospodzie.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\bin\Debug\net10.0\zad8rachunekWgospodzie.dll
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\bin\Debug\net10.0\zad8rachunekWgospodzie.pdb
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.dll
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\refint\zad8rachunekWgospodzie.dll
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.pdb
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\zad8rachunekWgospodzie.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad8rachunekWgospodzie\obj\Debug\net10.0\ref\zad8rachunekWgospodzie.dll

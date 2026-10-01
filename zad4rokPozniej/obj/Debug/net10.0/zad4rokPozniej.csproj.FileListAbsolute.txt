@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\bin\Debug\net10.0\zad4rokPozniej.exe
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\bin\Debug\net10.0\zad4rokPozniej.deps.json
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\bin\Debug\net10.0\zad4rokPozniej.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\bin\Debug\net10.0\zad4rokPozniej.dll
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\bin\Debug\net10.0\zad4rokPozniej.pdb
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.dll
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\refint\zad4rokPozniej.dll
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.pdb
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\zad4rokPozniej.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad4rokPozniej\obj\Debug\net10.0\ref\zad4rokPozniej.dll

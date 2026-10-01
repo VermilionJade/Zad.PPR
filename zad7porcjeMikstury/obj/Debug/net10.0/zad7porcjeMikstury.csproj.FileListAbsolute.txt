@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\bin\Debug\net10.0\zad7porcjeMikstury.exe
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\bin\Debug\net10.0\zad7porcjeMikstury.deps.json
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\bin\Debug\net10.0\zad7porcjeMikstury.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\bin\Debug\net10.0\zad7porcjeMikstury.dll
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\bin\Debug\net10.0\zad7porcjeMikstury.pdb
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.dll
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\refint\zad7porcjeMikstury.dll
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.pdb
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\zad7porcjeMikstury.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad7porcjeMikstury\obj\Debug\net10.0\ref\zad7porcjeMikstury.dll

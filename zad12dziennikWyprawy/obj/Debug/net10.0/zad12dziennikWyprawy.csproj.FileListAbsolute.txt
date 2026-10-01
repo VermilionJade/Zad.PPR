@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\bin\Debug\net10.0\zad12dziennikWyprawy.exe
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\bin\Debug\net10.0\zad12dziennikWyprawy.deps.json
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\bin\Debug\net10.0\zad12dziennikWyprawy.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\bin\Debug\net10.0\zad12dziennikWyprawy.dll
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\bin\Debug\net10.0\zad12dziennikWyprawy.pdb
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.dll
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\refint\zad12dziennikWyprawy.dll
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.pdb
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\zad12dziennikWyprawy.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad12dziennikWyprawy\obj\Debug\net10.0\ref\zad12dziennikWyprawy.dll

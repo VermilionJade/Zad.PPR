@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\bin\Debug\net10.0\zad11obrazeniaBohatera.exe
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\bin\Debug\net10.0\zad11obrazeniaBohatera.deps.json
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\bin\Debug\net10.0\zad11obrazeniaBohatera.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\bin\Debug\net10.0\zad11obrazeniaBohatera.dll
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\bin\Debug\net10.0\zad11obrazeniaBohatera.pdb
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.dll
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\refint\zad11obrazeniaBohatera.dll
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.pdb
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\zad11obrazeniaBohatera.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad11obrazeniaBohatera\obj\Debug\net10.0\ref\zad11obrazeniaBohatera.dll

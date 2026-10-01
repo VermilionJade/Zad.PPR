@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\bin\Debug\net10.0\zad10podzialLupu.exe
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\bin\Debug\net10.0\zad10podzialLupu.deps.json
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\bin\Debug\net10.0\zad10podzialLupu.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\bin\Debug\net10.0\zad10podzialLupu.dll
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\bin\Debug\net10.0\zad10podzialLupu.pdb
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.dll
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\refint\zad10podzialLupu.dll
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.pdb
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\zad10podzialLupu.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad10podzialLupu\obj\Debug\net10.0\ref\zad10podzialLupu.dll

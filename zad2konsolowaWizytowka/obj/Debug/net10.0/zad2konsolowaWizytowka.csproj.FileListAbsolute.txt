@@ -1,0 +1,14 @@
+C:\Users\s37410\zad2konsolowaWizytowka\bin\Debug\net10.0\zad2konsolowaWizytowka.exe
+C:\Users\s37410\zad2konsolowaWizytowka\bin\Debug\net10.0\zad2konsolowaWizytowka.deps.json
+C:\Users\s37410\zad2konsolowaWizytowka\bin\Debug\net10.0\zad2konsolowaWizytowka.runtimeconfig.json
+C:\Users\s37410\zad2konsolowaWizytowka\bin\Debug\net10.0\zad2konsolowaWizytowka.dll
+C:\Users\s37410\zad2konsolowaWizytowka\bin\Debug\net10.0\zad2konsolowaWizytowka.pdb
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.AssemblyInfoInputs.cache
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.AssemblyInfo.cs
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.csproj.CoreCompileInputs.cache
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.dll
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\refint\zad2konsolowaWizytowka.dll
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.pdb
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\zad2konsolowaWizytowka.genruntimeconfig.cache
+C:\Users\s37410\zad2konsolowaWizytowka\obj\Debug\net10.0\ref\zad2konsolowaWizytowka.dll

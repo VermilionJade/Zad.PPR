@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\bin\Debug\net10.0\zad3powitanieUzytkownika.exe
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\bin\Debug\net10.0\zad3powitanieUzytkownika.deps.json
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\bin\Debug\net10.0\zad3powitanieUzytkownika.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\bin\Debug\net10.0\zad3powitanieUzytkownika.dll
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\bin\Debug\net10.0\zad3powitanieUzytkownika.pdb
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.dll
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\refint\zad3powitanieUzytkownika.dll
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.pdb
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\zad3powitanieUzytkownika.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad3powitanieUzytkownika\obj\Debug\net10.0\ref\zad3powitanieUzytkownika.dll

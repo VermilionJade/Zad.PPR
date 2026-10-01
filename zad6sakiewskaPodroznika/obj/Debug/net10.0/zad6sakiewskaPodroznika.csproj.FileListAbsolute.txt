@@ -1,0 +1,14 @@
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\bin\Debug\net10.0\zad6sakiewskaPodroznika.exe
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\bin\Debug\net10.0\zad6sakiewskaPodroznika.deps.json
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\bin\Debug\net10.0\zad6sakiewskaPodroznika.runtimeconfig.json
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\bin\Debug\net10.0\zad6sakiewskaPodroznika.dll
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\bin\Debug\net10.0\zad6sakiewskaPodroznika.pdb
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.AssemblyInfoInputs.cache
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.AssemblyInfo.cs
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.csproj.CoreCompileInputs.cache
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.dll
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\refint\zad6sakiewskaPodroznika.dll
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.pdb
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\zad6sakiewskaPodroznika.genruntimeconfig.cache
+C:\Users\s37410\Zad.PPR\zad6sakiewskaPodroznika\obj\Debug\net10.0\ref\zad6sakiewskaPodroznika.dll
