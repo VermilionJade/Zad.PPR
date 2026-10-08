@@ -1,0 +1,5 @@
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\publish\zad2treningNaArenie.exe
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\publish\zad2treningNaArenie.dll
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\publish\zad2treningNaArenie.deps.json
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\publish\zad2treningNaArenie.runtimeconfig.json
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\publish\zad2treningNaArenie.pdb

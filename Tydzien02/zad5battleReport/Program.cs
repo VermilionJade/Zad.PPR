@@ -1,0 +1,31 @@
+﻿Console.WriteLine("Enter name: ");
+string name = Console.ReadLine();
+Console.WriteLine("\nEnter max health: ");
+int maxHealth = int.Parse(Console.ReadLine());
+Console.WriteLine("\nEnter current health: ");
+int currentHealth = int.Parse(Console.ReadLine());
+Console.WriteLine("\nEnter weapon damage: ");
+int weaponDamage = int.Parse(Console.ReadLine());
+Console.WriteLine("\nEnter strength bonus: ");
+int strengthBonus = int.Parse(Console.ReadLine());
+Console.WriteLine("\nEnter special attack multiplier: ");
+double specialAttackMultiplier = double.Parse(Console.ReadLine());
+Console.WriteLine("\nEnter number of normal attacks done: ");
+int numberOfAttacks = int.Parse(Console.ReadLine());
+
+int NormalAttackDamage = weaponDamage + strengthBonus;
+int SpecialAttackDamage = (int)(NormalAttackDamage * specialAttackMultiplier);
+int totalDamage = (NormalAttackDamage * numberOfAttacks) + SpecialAttackDamage;
+double remainingHealth = (double)currentHealth / maxHealth * 100;
+bool isAlive = currentHealth > 0;
+bool hasFullHealth = currentHealth == maxHealth;
+
+Console.WriteLine("=== BATTLE REPORT ===");
+Console.WriteLine($"Name: {name}");
+Console.WriteLine($"Health: {currentHealth}/{maxHealth} ({remainingHealth}%)");
+Console.WriteLine($"Normal Attack Damage: {NormalAttackDamage}");
+Console.WriteLine($"Special Attack Damage: {SpecialAttackDamage}");
+Console.WriteLine($"Total Damage Dealt: {totalDamage}");
+Console.WriteLine($"Is Alive: {isAlive}");
+Console.WriteLine($"Has Full Health: {hasFullHealth}");
+Console.WriteLine("=====================");

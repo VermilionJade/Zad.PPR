@@ -1,0 +1,14 @@
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\zad2treningNaArenie.exe
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\zad2treningNaArenie.deps.json
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\zad2treningNaArenie.runtimeconfig.json
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\zad2treningNaArenie.dll
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\bin\Release\net10.0\zad2treningNaArenie.pdb
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.AssemblyInfo.cs
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.dll
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\refint\zad2treningNaArenie.dll
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.pdb
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\zad2treningNaArenie.genruntimeconfig.cache
+C:\Users\s37410\PPR\Tydzien02\zad2treningNaArenie\obj\Release\net10.0\ref\zad2treningNaArenie.dll

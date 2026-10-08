@@ -1,0 +1,14 @@
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\bin\Release\net10.0\zad4czyBohaterJestGotowy.exe
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\bin\Release\net10.0\zad4czyBohaterJestGotowy.deps.json
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\bin\Release\net10.0\zad4czyBohaterJestGotowy.runtimeconfig.json
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\bin\Release\net10.0\zad4czyBohaterJestGotowy.dll
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\bin\Release\net10.0\zad4czyBohaterJestGotowy.pdb
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.AssemblyInfo.cs
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.dll
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\refint\zad4czyBohaterJestGotowy.dll
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.pdb
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\zad4czyBohaterJestGotowy.genruntimeconfig.cache
+C:\Users\s37410\PPR\Tydzien02\zad4czyBohaterJestGotowy\obj\Release\net10.0\ref\zad4czyBohaterJestGotowy.dll

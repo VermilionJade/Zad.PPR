@@ -1,0 +1,14 @@
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\bin\Debug\net10.0\zad3podzialZapasow.exe
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\bin\Debug\net10.0\zad3podzialZapasow.deps.json
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\bin\Debug\net10.0\zad3podzialZapasow.runtimeconfig.json
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\bin\Debug\net10.0\zad3podzialZapasow.dll
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\bin\Debug\net10.0\zad3podzialZapasow.pdb
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.AssemblyInfo.cs
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.dll
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\refint\zad3podzialZapasow.dll
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.pdb
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\zad3podzialZapasow.genruntimeconfig.cache
+C:\Users\s37410\PPR\Tydzien02\zad3podzialZapasow\obj\Debug\net10.0\ref\zad3podzialZapasow.dll

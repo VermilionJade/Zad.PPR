@@ -1,0 +1,5 @@
+C:\Users\s37410\PPR\Tydzien02\zad1ekwipunekBohatera\bin\Release\net10.0\publish\zad1ekwipunekBohatera.exe
+C:\Users\s37410\PPR\Tydzien02\zad1ekwipunekBohatera\bin\Release\net10.0\publish\zad1ekwipunekBohatera.dll
+C:\Users\s37410\PPR\Tydzien02\zad1ekwipunekBohatera\bin\Release\net10.0\publish\zad1ekwipunekBohatera.deps.json
+C:\Users\s37410\PPR\Tydzien02\zad1ekwipunekBohatera\bin\Release\net10.0\publish\zad1ekwipunekBohatera.runtimeconfig.json
+C:\Users\s37410\PPR\Tydzien02\zad1ekwipunekBohatera\bin\Release\net10.0\publish\zad1ekwipunekBohatera.pdb
