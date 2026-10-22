@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad2konsolowaWizytowka\\zad2konsolowaWizytowka.csproj",
+      "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad2konsolowaWizytowka\\zad2konsolowaWizytowka.csproj",
       "projectName": "zad2konsolowaWizytowka",
-      "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad2konsolowaWizytowka\\zad2konsolowaWizytowka.csproj",
+      "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad2konsolowaWizytowka\\zad2konsolowaWizytowka.csproj",
       "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad2konsolowaWizytowka\\obj\\",
+      "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad2konsolowaWizytowka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

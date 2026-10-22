@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj",
         "projectName": "zad3powitanieUzytkownika",
-        "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad3powitanieUzytkownika\\zad3powitanieUzytkownika.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad3powitanieUzytkownika\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad3powitanieUzytkownika\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad9zamianaCzasu\\zad9zamianaCzasu.csproj",
+      "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad9zamianaCzasu\\zad9zamianaCzasu.csproj",
       "projectName": "zad9zamianaCzasu",
-      "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad9zamianaCzasu\\zad9zamianaCzasu.csproj",
+      "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad9zamianaCzasu\\zad9zamianaCzasu.csproj",
       "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad9zamianaCzasu\\obj\\",
+      "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad9zamianaCzasu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

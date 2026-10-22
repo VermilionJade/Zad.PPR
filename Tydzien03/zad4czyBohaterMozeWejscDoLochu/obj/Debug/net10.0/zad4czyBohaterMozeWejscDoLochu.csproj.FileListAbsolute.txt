@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\bin\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\bin\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\bin\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\bin\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\bin\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\refint\zad4czyBohaterMozeWejscDoLochu.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\zad4czyBohaterMozeWejscDoLochu.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien03\zad4czyBohaterMozeWejscDoLochu\obj\Debug\net10.0\ref\zad4czyBohaterMozeWejscDoLochu.dll

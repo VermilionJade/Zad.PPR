@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj",
         "projectName": "zad1ekwipunekBohatera",
-        "projectPath": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad1ekwipunekBohatera\\zad1ekwipunekBohatera.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad1ekwipunekBohatera\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad1ekwipunekBohatera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

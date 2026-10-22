@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj",
         "projectName": "zad12dziennikWyprawy",
-        "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad12dziennikWyprawy\\zad12dziennikWyprawy.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad12dziennikWyprawy\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad12dziennikWyprawy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

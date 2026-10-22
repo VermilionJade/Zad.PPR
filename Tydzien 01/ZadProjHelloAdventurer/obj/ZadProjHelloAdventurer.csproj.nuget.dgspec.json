@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sdrob\\Zad.PPR\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sdrob\\Zad.PPR\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sdrob\\Zad.PPR\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj",
         "projectName": "ZadProjHelloAdventurer",
-        "projectPath": "C:\\Users\\sdrob\\Zad.PPR\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj",
-        "packagesPath": "C:\\Users\\sdrob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sdrob\\Zad.PPR\\ZadProjHelloAdventurer\\obj\\",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\ZadProjHelloAdventurer\\ZadProjHelloAdventurer.csproj",
+        "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\ZadProjHelloAdventurer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sdrob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

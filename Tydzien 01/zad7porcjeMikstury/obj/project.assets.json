@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad7porcjeMikstury\\zad7porcjeMikstury.csproj",
+      "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad7porcjeMikstury\\zad7porcjeMikstury.csproj",
       "projectName": "zad7porcjeMikstury",
-      "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad7porcjeMikstury\\zad7porcjeMikstury.csproj",
+      "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad7porcjeMikstury\\zad7porcjeMikstury.csproj",
       "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad7porcjeMikstury\\obj\\",
+      "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad7porcjeMikstury\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

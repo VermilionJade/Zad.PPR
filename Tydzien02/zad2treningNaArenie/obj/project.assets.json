@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad2treningNaArenie\\zad2treningNaArenie.csproj",
+      "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad2treningNaArenie\\zad2treningNaArenie.csproj",
       "projectName": "zad2treningNaArenie",
-      "projectPath": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad2treningNaArenie\\zad2treningNaArenie.csproj",
+      "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad2treningNaArenie\\zad2treningNaArenie.csproj",
       "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad2treningNaArenie\\obj\\",
+      "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad2treningNaArenie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj",
         "projectName": "zad5kalkulatorPodrozy",
-        "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad5kalkulatorPodrozy\\zad5kalkulatorPodrozy.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad5kalkulatorPodrozy\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad5kalkulatorPodrozy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

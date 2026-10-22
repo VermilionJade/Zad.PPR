@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad4rokPozniej\\zad4rokPozniej.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad4rokPozniej\\zad4rokPozniej.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad4rokPozniej\\zad4rokPozniej.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad4rokPozniej\\zad4rokPozniej.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad4rokPozniej\\zad4rokPozniej.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad4rokPozniej\\zad4rokPozniej.csproj",
         "projectName": "zad4rokPozniej",
-        "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad4rokPozniej\\zad4rokPozniej.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad4rokPozniej\\zad4rokPozniej.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad4rokPozniej\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad4rokPozniej\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

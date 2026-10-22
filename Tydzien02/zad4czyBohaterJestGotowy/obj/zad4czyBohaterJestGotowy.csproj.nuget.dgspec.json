@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj",
         "projectName": "zad4czyBohaterJestGotowy",
-        "projectPath": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\zad4czyBohaterJestGotowy.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien02\\zad4czyBohaterJestGotowy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

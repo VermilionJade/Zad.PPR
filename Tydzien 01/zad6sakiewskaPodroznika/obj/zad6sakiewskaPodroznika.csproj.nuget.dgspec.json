@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj",
         "projectName": "zad6sakiewskaPodroznika",
-        "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad6sakiewskaPodroznika\\zad6sakiewskaPodroznika.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad6sakiewskaPodroznika\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad6sakiewskaPodroznika\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

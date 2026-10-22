@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\Zad.PPR\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\Zad.PPR\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj",
         "projectName": "zad1pierwszeKomunikaty",
-        "projectPath": "C:\\Users\\s37410\\Zad.PPR\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad1pierwszeKomunikaty\\zad1pierwszeKomunikaty.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\Zad.PPR\\zad1pierwszeKomunikaty\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien 01\\zad1pierwszeKomunikaty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"
