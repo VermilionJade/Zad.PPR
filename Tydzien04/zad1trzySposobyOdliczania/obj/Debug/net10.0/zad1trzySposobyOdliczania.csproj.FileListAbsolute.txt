@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\bin\Debug\net10.0\zad1trzySposobyOdliczania.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\bin\Debug\net10.0\zad1trzySposobyOdliczania.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\bin\Debug\net10.0\zad1trzySposobyOdliczania.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\bin\Debug\net10.0\zad1trzySposobyOdliczania.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\bin\Debug\net10.0\zad1trzySposobyOdliczania.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\refint\zad1trzySposobyOdliczania.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\zad1trzySposobyOdliczania.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad1trzySposobyOdliczania\obj\Debug\net10.0\ref\zad1trzySposobyOdliczania.dll
