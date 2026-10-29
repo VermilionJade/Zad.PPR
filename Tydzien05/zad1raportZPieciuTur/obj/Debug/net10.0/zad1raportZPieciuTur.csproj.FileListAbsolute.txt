@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\bin\Debug\net10.0\zad1raportZPieciuTur.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\bin\Debug\net10.0\zad1raportZPieciuTur.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\bin\Debug\net10.0\zad1raportZPieciuTur.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\bin\Debug\net10.0\zad1raportZPieciuTur.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\bin\Debug\net10.0\zad1raportZPieciuTur.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\refint\zad1raportZPieciuTur.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\zad1raportZPieciuTur.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad1raportZPieciuTur\obj\Debug\net10.0\ref\zad1raportZPieciuTur.dll

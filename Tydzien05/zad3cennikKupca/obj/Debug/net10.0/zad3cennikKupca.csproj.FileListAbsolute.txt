@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\bin\Debug\net10.0\zad3cennikKupca.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\bin\Debug\net10.0\zad3cennikKupca.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\bin\Debug\net10.0\zad3cennikKupca.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\bin\Debug\net10.0\zad3cennikKupca.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\bin\Debug\net10.0\zad3cennikKupca.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\refint\zad3cennikKupca.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\zad3cennikKupca.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad3cennikKupca\obj\Debug\net10.0\ref\zad3cennikKupca.dll

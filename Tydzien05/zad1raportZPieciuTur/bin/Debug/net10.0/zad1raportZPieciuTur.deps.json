@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "zad1raportZPieciuTur/1.0.0": {
+        "runtime": {
+          "zad1raportZPieciuTur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad1raportZPieciuTur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
