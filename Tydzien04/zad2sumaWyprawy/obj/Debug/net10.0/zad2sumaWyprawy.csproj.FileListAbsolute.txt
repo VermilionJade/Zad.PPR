@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\bin\Debug\net10.0\zad2sumaWyprawy.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\bin\Debug\net10.0\zad2sumaWyprawy.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\bin\Debug\net10.0\zad2sumaWyprawy.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\bin\Debug\net10.0\zad2sumaWyprawy.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\bin\Debug\net10.0\zad2sumaWyprawy.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\refint\zad2sumaWyprawy.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\zad2sumaWyprawy.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien04\zad2sumaWyprawy\obj\Debug\net10.0\ref\zad2sumaWyprawy.dll

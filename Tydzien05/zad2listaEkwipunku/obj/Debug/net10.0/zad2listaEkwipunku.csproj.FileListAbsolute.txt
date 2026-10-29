@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\bin\Debug\net10.0\zad2listaEkwipunku.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\bin\Debug\net10.0\zad2listaEkwipunku.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\bin\Debug\net10.0\zad2listaEkwipunku.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\bin\Debug\net10.0\zad2listaEkwipunku.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\bin\Debug\net10.0\zad2listaEkwipunku.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\refint\zad2listaEkwipunku.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\zad2listaEkwipunku.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien05\zad2listaEkwipunku\obj\Debug\net10.0\ref\zad2listaEkwipunku.dll
