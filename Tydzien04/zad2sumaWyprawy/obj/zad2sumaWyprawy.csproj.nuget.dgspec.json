@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj",
         "projectName": "zad2sumaWyprawy",
-        "projectPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\zad2sumaWyprawy.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien04\\zad2sumaWyprawy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"
