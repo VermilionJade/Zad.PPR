@@ -1,0 +1,15 @@
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.AssemblyInfoInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.AssemblyInfo.cs
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.csproj.CoreCompileInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.sourcelink.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\bin\Debug\net10.0\zad4poprawnaLiczbaTur.exe
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\bin\Debug\net10.0\zad4poprawnaLiczbaTur.deps.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\bin\Debug\net10.0\zad4poprawnaLiczbaTur.runtimeconfig.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\bin\Debug\net10.0\zad4poprawnaLiczbaTur.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\bin\Debug\net10.0\zad4poprawnaLiczbaTur.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\refint\zad4poprawnaLiczbaTur.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\zad4poprawnaLiczbaTur.genruntimeconfig.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad4poprawnaLiczbaTur\obj\Debug\net10.0\ref\zad4poprawnaLiczbaTur.dll

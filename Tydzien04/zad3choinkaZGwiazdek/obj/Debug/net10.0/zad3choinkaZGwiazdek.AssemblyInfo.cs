@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zad3choinkaZGwiazdek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32efb4d60176f5b143078eecf6e474ad4a5f5cbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("zad3choinkaZGwiazdek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zad3choinkaZGwiazdek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

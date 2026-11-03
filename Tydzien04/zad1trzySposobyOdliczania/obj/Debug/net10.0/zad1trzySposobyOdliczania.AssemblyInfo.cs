@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zad1trzySposobyOdliczania")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b204dae05dc83bc779412552adc9f1f158200263")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32efb4d60176f5b143078eecf6e474ad4a5f5cbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("zad1trzySposobyOdliczania")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zad1trzySposobyOdliczania")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

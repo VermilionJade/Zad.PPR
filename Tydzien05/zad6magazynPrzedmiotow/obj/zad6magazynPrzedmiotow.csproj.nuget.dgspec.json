@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj": {}
+    "C:\\Users\\sdrob\\INFORMATYKA\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj": {
+    "C:\\Users\\sdrob\\INFORMATYKA\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj",
+        "projectUniqueName": "C:\\Users\\sdrob\\INFORMATYKA\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj",
         "projectName": "zad6magazynPrzedmiotow",
-        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj",
-        "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\obj\\",
+        "projectPath": "C:\\Users\\sdrob\\INFORMATYKA\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\zad6magazynPrzedmiotow.csproj",
+        "packagesPath": "C:\\Users\\sdrob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdrob\\INFORMATYKA\\PPR\\Zad.PPR\\Tydzien05\\zad6magazynPrzedmiotow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sdrob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
