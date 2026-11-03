@@ -1,0 +1,15 @@
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\bin\Debug\net10.0\zad6magazynPrzedmiotow.exe
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\bin\Debug\net10.0\zad6magazynPrzedmiotow.deps.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\bin\Debug\net10.0\zad6magazynPrzedmiotow.runtimeconfig.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\bin\Debug\net10.0\zad6magazynPrzedmiotow.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\bin\Debug\net10.0\zad6magazynPrzedmiotow.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.AssemblyInfoInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.AssemblyInfo.cs
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.csproj.CoreCompileInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.sourcelink.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\refint\zad6magazynPrzedmiotow.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\zad6magazynPrzedmiotow.genruntimeconfig.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad6magazynPrzedmiotow\obj\Debug\net10.0\ref\zad6magazynPrzedmiotow.dll
