@@ -27,3 +27,4 @@ C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad3choinkaZGwiazdek\bin\Debug\
 C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad3choinkaZGwiazdek\bin\Debug\net10.0\zad3choinkaZGwiazdek.pdb
 C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad3choinkaZGwiazdek\obj\Debug\net10.0\zad3choinkaZGwiazdek.genruntimeconfig.cache
 C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad3choinkaZGwiazdek\obj\Debug\net10.0\ref\zad3choinkaZGwiazdek.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad3choinkaZGwiazdek\obj\Debug\net10.0\zad3choinkaZGwiazdek.sourcelink.json

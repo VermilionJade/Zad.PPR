@@ -1,0 +1,15 @@
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\bin\Debug\net10.0\zad5symulacjaWalkiTurowej.exe
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\bin\Debug\net10.0\zad5symulacjaWalkiTurowej.deps.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\bin\Debug\net10.0\zad5symulacjaWalkiTurowej.runtimeconfig.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\bin\Debug\net10.0\zad5symulacjaWalkiTurowej.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\bin\Debug\net10.0\zad5symulacjaWalkiTurowej.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.AssemblyInfoInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.AssemblyInfo.cs
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.csproj.CoreCompileInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.sourcelink.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\refint\zad5symulacjaWalkiTurowej.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\zad5symulacjaWalkiTurowej.genruntimeconfig.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien04\zad5symulacjaWalkiTurowej\obj\Debug\net10.0\ref\zad5symulacjaWalkiTurowej.dll
