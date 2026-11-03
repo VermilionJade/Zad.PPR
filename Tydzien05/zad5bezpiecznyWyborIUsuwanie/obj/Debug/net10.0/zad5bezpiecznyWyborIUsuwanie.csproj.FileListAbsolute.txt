@@ -1,0 +1,15 @@
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\bin\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.exe
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\bin\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.deps.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\bin\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.runtimeconfig.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\bin\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\bin\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.AssemblyInfoInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.AssemblyInfo.cs
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.csproj.CoreCompileInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.sourcelink.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\refint\zad5bezpiecznyWyborIUsuwanie.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\zad5bezpiecznyWyborIUsuwanie.genruntimeconfig.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad5bezpiecznyWyborIUsuwanie\obj\Debug\net10.0\ref\zad5bezpiecznyWyborIUsuwanie.dll
