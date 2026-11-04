@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zad6magazynPrzedmiotow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20bbf68c85f34b891217df8938c9ee7a2f694348")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90559864cfad22e657bee1eb830bf42159dbe5a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("zad6magazynPrzedmiotow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zad6magazynPrzedmiotow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

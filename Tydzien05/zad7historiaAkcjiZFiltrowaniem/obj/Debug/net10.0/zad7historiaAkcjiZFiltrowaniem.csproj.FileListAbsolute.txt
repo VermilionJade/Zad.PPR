@@ -1,0 +1,15 @@
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\bin\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.exe
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\bin\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.deps.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\bin\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.runtimeconfig.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\bin\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\bin\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.AssemblyInfoInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.AssemblyInfo.cs
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.csproj.CoreCompileInputs.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.sourcelink.json
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\refint\zad7historiaAkcjiZFiltrowaniem.dll
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.pdb
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\zad7historiaAkcjiZFiltrowaniem.genruntimeconfig.cache
+C:\Users\sdrob\INFORMATYKA\PPR\Zad.PPR\Tydzien05\zad7historiaAkcjiZFiltrowaniem\obj\Debug\net10.0\ref\zad7historiaAkcjiZFiltrowaniem.dll
