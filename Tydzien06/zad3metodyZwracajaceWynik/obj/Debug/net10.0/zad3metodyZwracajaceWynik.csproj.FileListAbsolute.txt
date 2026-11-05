@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\bin\Debug\net10.0\zad3metodyZwracajaceWynik.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\bin\Debug\net10.0\zad3metodyZwracajaceWynik.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\bin\Debug\net10.0\zad3metodyZwracajaceWynik.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\bin\Debug\net10.0\zad3metodyZwracajaceWynik.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\bin\Debug\net10.0\zad3metodyZwracajaceWynik.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\refint\zad3metodyZwracajaceWynik.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\zad3metodyZwracajaceWynik.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad3metodyZwracajaceWynik\obj\Debug\net10.0\ref\zad3metodyZwracajaceWynik.dll

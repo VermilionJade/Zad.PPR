@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\bin\Debug\net10.0\zad4walidacjaKomendy.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\bin\Debug\net10.0\zad4walidacjaKomendy.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\bin\Debug\net10.0\zad4walidacjaKomendy.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\bin\Debug\net10.0\zad4walidacjaKomendy.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\bin\Debug\net10.0\zad4walidacjaKomendy.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\refint\zad4walidacjaKomendy.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\zad4walidacjaKomendy.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad4walidacjaKomendy\obj\Debug\net10.0\ref\zad4walidacjaKomendy.dll

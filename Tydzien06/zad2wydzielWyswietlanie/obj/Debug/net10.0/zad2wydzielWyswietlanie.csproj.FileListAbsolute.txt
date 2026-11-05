@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\bin\Debug\net10.0\zad2wydzielWyswietlanie.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\bin\Debug\net10.0\zad2wydzielWyswietlanie.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\bin\Debug\net10.0\zad2wydzielWyswietlanie.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\bin\Debug\net10.0\zad2wydzielWyswietlanie.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\bin\Debug\net10.0\zad2wydzielWyswietlanie.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\refint\zad2wydzielWyswietlanie.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\zad2wydzielWyswietlanie.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad2wydzielWyswietlanie\obj\Debug\net10.0\ref\zad2wydzielWyswietlanie.dll

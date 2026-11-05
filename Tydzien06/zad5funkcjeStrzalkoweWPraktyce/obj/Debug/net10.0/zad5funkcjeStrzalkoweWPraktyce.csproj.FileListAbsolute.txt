@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\bin\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\bin\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\bin\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\bin\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\bin\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\refint\zad5funkcjeStrzalkoweWPraktyce.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\zad5funkcjeStrzalkoweWPraktyce.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad5funkcjeStrzalkoweWPraktyce\obj\Debug\net10.0\ref\zad5funkcjeStrzalkoweWPraktyce.dll

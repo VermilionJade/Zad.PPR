@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\bin\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\bin\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\bin\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\bin\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\bin\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\refint\zad1rozgrzewkaPrzeczytajSygnature.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\zad1rozgrzewkaPrzeczytajSygnature.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien06\zad1rozgrzewkaPrzeczytajSygnature\obj\Debug\net10.0\ref\zad1rozgrzewkaPrzeczytajSygnature.dll

@@ -1,6 +1,4 @@
-﻿//DO ZROBIENIA i dalej
-
-bool programEnd = false;
+﻿bool programEnd = false;
 List<string> actionHistory = new List<string>();
 while (programEnd == false)
 {
