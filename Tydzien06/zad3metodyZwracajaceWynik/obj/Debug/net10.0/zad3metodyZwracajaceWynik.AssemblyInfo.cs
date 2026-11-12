@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zad3metodyZwracajaceWynik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31d4d1a66a2b94d3b223559dbdaba23b908207da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3243822ab0391ef847d3e749315ff1831fff0bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("zad3metodyZwracajaceWynik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zad3metodyZwracajaceWynik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

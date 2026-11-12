@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj",
         "projectName": "zad3metodyZwracajaceWynik",
-        "projectPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\zad3metodyZwracajaceWynik.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad3metodyZwracajaceWynik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj",
         "projectName": "zad2wydzielWyswietlanie",
-        "projectPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\zad2wydzielWyswietlanie.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad2wydzielWyswietlanie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

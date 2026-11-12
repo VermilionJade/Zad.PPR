@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\bin\Debug\net10.0\zad4listaPrzeciwnikowIRaport.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\bin\Debug\net10.0\zad4listaPrzeciwnikowIRaport.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\bin\Debug\net10.0\zad4listaPrzeciwnikowIRaport.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\bin\Debug\net10.0\zad4listaPrzeciwnikowIRaport.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\bin\Debug\net10.0\zad4listaPrzeciwnikowIRaport.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\refint\zad4listaPrzeciwnikowIRaport.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\zad4listaPrzeciwnikowIRaport.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad4listaPrzeciwnikowIRaport\obj\Debug\net10.0\ref\zad4listaPrzeciwnikowIRaport.dll

@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\bin\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\bin\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\bin\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\bin\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\bin\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\refint\zad3dwaObiektyDwaNiezalezneStany.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\zad3dwaObiektyDwaNiezalezneStany.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad3dwaObiektyDwaNiezalezneStany\obj\Debug\net10.0\ref\zad3dwaObiektyDwaNiezalezneStany.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj",
         "projectName": "zad7polowanieNaBledyJuniora",
-        "projectPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\zad7polowanieNaBledyJuniora.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad7polowanieNaBledyJuniora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

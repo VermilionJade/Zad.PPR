@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj",
         "projectName": "zad5funkcjeStrzalkoweWPraktyce",
-        "projectPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\zad5funkcjeStrzalkoweWPraktyce.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad5funkcjeStrzalkoweWPraktyce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

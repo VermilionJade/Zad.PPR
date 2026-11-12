@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj": {}
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj": {
+    "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj",
         "projectName": "zad4walidacjaKomendy",
-        "projectPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj",
+        "projectPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\zad4walidacjaKomendy.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\PPR\\Zad.PPR\\Tydzien06\\zad4walidacjaKomendy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"

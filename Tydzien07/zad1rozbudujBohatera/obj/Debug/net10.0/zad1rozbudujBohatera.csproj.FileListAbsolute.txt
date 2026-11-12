@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\bin\Debug\net10.0\zad1rozbudujBohatera.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\bin\Debug\net10.0\zad1rozbudujBohatera.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\bin\Debug\net10.0\zad1rozbudujBohatera.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\bin\Debug\net10.0\zad1rozbudujBohatera.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\bin\Debug\net10.0\zad1rozbudujBohatera.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\refint\zad1rozbudujBohatera.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\zad1rozbudujBohatera.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad1rozbudujBohatera\obj\Debug\net10.0\ref\zad1rozbudujBohatera.dll

@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\bin\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\bin\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\bin\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\bin\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\bin\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\refint\zad2bezpieczneObrazeniaILeczenie.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\zad2bezpieczneObrazeniaILeczenie.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien07\zad2bezpieczneObrazeniaILeczenie\obj\Debug\net10.0\ref\zad2bezpieczneObrazeniaILeczenie.dll
