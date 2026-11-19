@@ -1,0 +1,15 @@
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.exe
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.deps.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.runtimeconfig.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.AssemblyInfoInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.AssemblyInfo.cs
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.sourcelink.json
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\refint\DungeonOrganizer.dll
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.pdb
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.genruntimeconfig.cache
+C:\Users\s37410\PPR\Zad.PPR\Tydzien08\DungeonOrganizer\obj\Debug\net10.0\ref\DungeonOrganizer.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zad4najleprzaINajgorszaWyprawa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3243822ab0391ef847d3e749315ff1831fff0bc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bfdd7d2ff4373fa22ec7062499d902903baf44d")]
 [assembly: System.Reflection.AssemblyProductAttribute("zad4najleprzaINajgorszaWyprawa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zad4najleprzaINajgorszaWyprawa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
